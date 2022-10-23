@@ -1,7 +1,8 @@
-- 👋 Hi, I’m @MalikBaqir
+- 👋 Hi, I’m Baqir Malik
+-I have submitted my PhD thesis 
 - 👀 I’m interested in cybersecurity/network security
 - 🌱 I’m currently learning python,Java+, coding 
-- 💞️ I’m looking to collaborate on machine learning and web developing
+- 💞️ I’m looking to collaborate on Computer Languages (c/c++, Java )machine learning and web developing
 - 📫 How to reach me @ mbaqirmalik@gmail.com
 
 <!---
